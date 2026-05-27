@@ -2,17 +2,19 @@
 cloud → devops
 
 
-networking
-linux
-bash
-git & github
+- networking
+- linux
+- bash
+- git & github
 
-aws
+- aws cloud practitioner
+- aws solutions architect associate
 
-docker
-kubernetes
-terraform
+- docker
+- kubernetes
+- ci/cd
+- terraform
 
-grafana
-prometheus
+- grafana
+- prometheus
 
