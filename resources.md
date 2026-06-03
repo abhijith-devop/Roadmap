@@ -2,7 +2,7 @@
 https://youtu.be/CY4hn70K3r8
 
 #linux 
-https://www.udemy.com/course/valaxy-linux/?utm_source=chatgpt.com
+https://youtu.be/tS_zLaH-tew
 
 #bash
 https://youtu.be/PNhq_4d-5ek
